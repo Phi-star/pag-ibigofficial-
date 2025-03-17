@@ -1,0 +1,18 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "My Simple Website",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "phistar",
+  "license": "MIT"
+}
